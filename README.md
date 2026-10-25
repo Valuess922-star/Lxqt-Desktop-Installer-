@@ -1,19 +1,12 @@
-# Termux Utilities
+# Termux lxqt Installer
 
-A collection of safe, lightweight, and automated Bash scripts designed to optimize storage and set up a graphical desktop environment inside **Termux** on Android.
+A script for setting up a graphical desktop environment inside **Termux** on Android.
 
 ---
 
 ## Features
 
-### 1.  Deep Cleaner (`clean.sh`)
-Reclaim valuable storage space by safely removing unnecessary junk:
-- **Package Caches**: Clears APT archives, `pkg` caches, and removes orphaned dependencies (`autoremove`).
-- **Temporary Files & Logs**: Deletes contents of `$TMPDIR` and lingering `*.log`, `*.bak`, and `*.tmp` files.
-- **Cache Directories**: Purges user cache files (`~/.cache`).
-- **Dev Tool Caches**: Automatically cleans `pip` and `npm` caches if Python or Node.js are installed.
-
-### 2. LXQt Desktop Installer (`install-lxqt.sh`)
+LXQt Desktop Installer (`install-lxqt.sh`)
 Automates the setup of the **LXQt** desktop environment optimized for **Termux-X11**:
 - Non-intrusive package installation.
 - Automatically generates a `$HOME/start-lxqt.sh` launcher script.
@@ -39,4 +32,4 @@ git clone [https://github.com/Valuess922-star/Lxqt-Desktop-Installer.git](https:
 cd lxqt-Desktop-Installer
 
 # Make the scripts executable
-chmod +x clean.sh install-lxqt.sh
+chmod +x install-lxqt.sh
