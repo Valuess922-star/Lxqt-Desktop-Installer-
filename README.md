@@ -33,10 +33,10 @@ Open Termux and run the following commands:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/Valuess922-star/Lxqt-Desktop-Installer.git](https://github.com/Valuess922-star/Lxqt-Desktop-Installer.git)
 
 # Enter the directory
-cd YOUR_REPOSITORY_NAME
+cd lxqt-Desktop-Installer
 
 # Make the scripts executable
 chmod +x clean.sh install-lxqt.sh
