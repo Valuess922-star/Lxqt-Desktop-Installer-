@@ -1,0 +1,15 @@
+# Log files and temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# Termux / System specific cache & temporary files
+.cache/
+tmp/
+
+# OS / Editor specific generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
