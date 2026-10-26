@@ -32,4 +32,4 @@ git clone [https://github.com/Valuess922-star/Lxqt-Desktop-Installer.git](https:
 cd lxqt-Desktop-Installer
 
 # Make the scripts executable
-chmod +x install-lxqt.sh
+chmod +x lxqt-installer.sh
