@@ -33,3 +33,6 @@ cd lxqt-Desktop-Installer
 
 # Make the scripts executable
 chmod +x lxqt-installer.sh
+
+#Buy me a coffee
+https://ko-fi.com/john44091
