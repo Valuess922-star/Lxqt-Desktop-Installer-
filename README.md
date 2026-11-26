@@ -2,6 +2,8 @@
 
 A script for setting up a graphical desktop environment inside **Termux** on Android.
 
+If you appreciate and like this projects help me out at by tipping at https://ko-fi.com/john44091
+
 ---
 
 ## Features
@@ -33,8 +35,3 @@ cd lxqt-Desktop-Installer
 
 # Make the scripts executable
 chmod +x lxqt-installer.sh
-
----
-
-#Buy me a coffee
-https://ko-fi.com/john44091
